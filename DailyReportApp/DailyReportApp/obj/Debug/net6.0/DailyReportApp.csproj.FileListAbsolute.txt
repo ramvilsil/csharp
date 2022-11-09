@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\obj\Debug\net6.0\DailyReportApp.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\obj\Debug\net6.0\DailyReportApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\obj\Debug\net6.0\DailyReportApp.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\obj\Debug\net6.0\DailyReportApp.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\obj\Debug\net6.0\DailyReportApp.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\bin\Debug\net6.0\DailyReportApp.exe
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\bin\Debug\net6.0\DailyReportApp.deps.json
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\bin\Debug\net6.0\DailyReportApp.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\bin\Debug\net6.0\DailyReportApp.dll
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\bin\Debug\net6.0\DailyReportApp.pdb
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\obj\Debug\net6.0\DailyReportApp.dll
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\obj\Debug\net6.0\refint\DailyReportApp.dll
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\obj\Debug\net6.0\DailyReportApp.pdb
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\obj\Debug\net6.0\DailyReportApp.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\VS-Repo\DailyReportApp\DailyReportApp\obj\Debug\net6.0\ref\DailyReportApp.dll
