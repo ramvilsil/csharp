@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net6.0\MathConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net6.0\MathConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net6.0\MathConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net6.0\MathConsoleApp.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net6.0\MathConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\net6.0\MathConsoleApp.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\net6.0\MathConsoleApp.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\net6.0\MathConsoleApp.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\net6.0\MathConsoleApp.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\net6.0\MathConsoleApp.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net6.0\MathConsoleApp.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net6.0\refint\MathConsoleApp.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net6.0\MathConsoleApp.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net6.0\MathConsoleApp.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\net6.0\ref\MathConsoleApp.dll
