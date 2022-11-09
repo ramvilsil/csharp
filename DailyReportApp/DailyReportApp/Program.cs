@@ -47,7 +47,7 @@ namespace DailyReports
             //Writes line on the console
             Console.WriteLine("How many hours did you study today?");
             //Reads the line of characters from the user's input into the console and assigns it to a string variable
-            string studyHours = Console.ReadLine();
+            int studyHours = Convert.ToInt32(Console.ReadLine());
 
             //Writes the final line on the console
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
