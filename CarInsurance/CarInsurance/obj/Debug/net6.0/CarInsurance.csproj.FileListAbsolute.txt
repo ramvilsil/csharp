@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\obj\Debug\net6.0\CarInsurance.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\obj\Debug\net6.0\CarInsurance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\obj\Debug\net6.0\CarInsurance.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\obj\Debug\net6.0\CarInsurance.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\obj\Debug\net6.0\CarInsurance.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\bin\Debug\net6.0\CarInsurance.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\bin\Debug\net6.0\CarInsurance.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\bin\Debug\net6.0\CarInsurance.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\bin\Debug\net6.0\CarInsurance.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\bin\Debug\net6.0\CarInsurance.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\obj\Debug\net6.0\CarInsurance.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\obj\Debug\net6.0\refint\CarInsurance.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\obj\Debug\net6.0\CarInsurance.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\obj\Debug\net6.0\CarInsurance.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CarInsurance\CarInsurance\obj\Debug\net6.0\ref\CarInsurance.dll
