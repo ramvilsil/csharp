@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\bin\Debug\net6.0\IncomeComparisionApp.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\bin\Debug\net6.0\IncomeComparisionApp.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\bin\Debug\net6.0\IncomeComparisionApp.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\bin\Debug\net6.0\IncomeComparisionApp.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\bin\Debug\net6.0\IncomeComparisionApp.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\obj\Debug\net6.0\IncomeComparisionApp.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\obj\Debug\net6.0\IncomeComparisionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\obj\Debug\net6.0\IncomeComparisionApp.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\obj\Debug\net6.0\IncomeComparisionApp.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\obj\Debug\net6.0\IncomeComparisionApp.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\obj\Debug\net6.0\IncomeComparisionApp.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\obj\Debug\net6.0\refint\IncomeComparisionApp.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\obj\Debug\net6.0\IncomeComparisionApp.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\obj\Debug\net6.0\IncomeComparisionApp.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\IncomeComparisionApp\IncomeComparisionApp\obj\Debug\net6.0\ref\IncomeComparisionApp.dll
