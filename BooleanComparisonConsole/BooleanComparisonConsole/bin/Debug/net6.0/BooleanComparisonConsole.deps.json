@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BooleanComparisonConsole/1.0.0": {
+        "runtime": {
+          "BooleanComparisonConsole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BooleanComparisonConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

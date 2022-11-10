@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\obj\Debug\net6.0\BooleanComparisonConsole.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\obj\Debug\net6.0\BooleanComparisonConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\obj\Debug\net6.0\BooleanComparisonConsole.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\obj\Debug\net6.0\BooleanComparisonConsole.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\obj\Debug\net6.0\BooleanComparisonConsole.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\bin\Debug\net6.0\BooleanComparisonConsole.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\bin\Debug\net6.0\BooleanComparisonConsole.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\bin\Debug\net6.0\BooleanComparisonConsole.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\bin\Debug\net6.0\BooleanComparisonConsole.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\bin\Debug\net6.0\BooleanComparisonConsole.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\obj\Debug\net6.0\BooleanComparisonConsole.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\obj\Debug\net6.0\refint\BooleanComparisonConsole.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\obj\Debug\net6.0\BooleanComparisonConsole.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\obj\Debug\net6.0\BooleanComparisonConsole.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\BooleanComparisonConsole\BooleanComparisonConsole\obj\Debug\net6.0\ref\BooleanComparisonConsole.dll
