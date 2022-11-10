@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\bin\Debug\net6.0\ArraysConsoleExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\bin\Debug\net6.0\ArraysConsoleExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\bin\Debug\net6.0\ArraysConsoleExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\bin\Debug\net6.0\ArraysConsoleExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\bin\Debug\net6.0\ArraysConsoleExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\obj\Debug\net6.0\ArraysConsoleExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\obj\Debug\net6.0\ArraysConsoleExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\obj\Debug\net6.0\ArraysConsoleExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\obj\Debug\net6.0\ArraysConsoleExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\obj\Debug\net6.0\ArraysConsoleExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\obj\Debug\net6.0\ArraysConsoleExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\obj\Debug\net6.0\refint\ArraysConsoleExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\obj\Debug\net6.0\ArraysConsoleExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\obj\Debug\net6.0\ArraysConsoleExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArraysConsoleExercise\ArraysConsoleExercise\obj\Debug\net6.0\ref\ArraysConsoleExercise.dll
