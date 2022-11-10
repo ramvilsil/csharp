@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\obj\Debug\net6.0\PackageExpressConsole.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\obj\Debug\net6.0\PackageExpressConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\obj\Debug\net6.0\PackageExpressConsole.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\obj\Debug\net6.0\PackageExpressConsole.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\obj\Debug\net6.0\PackageExpressConsole.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\bin\Debug\net6.0\PackageExpressConsole.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\bin\Debug\net6.0\PackageExpressConsole.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\bin\Debug\net6.0\PackageExpressConsole.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\bin\Debug\net6.0\PackageExpressConsole.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\bin\Debug\net6.0\PackageExpressConsole.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\obj\Debug\net6.0\PackageExpressConsole.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\obj\Debug\net6.0\refint\PackageExpressConsole.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\obj\Debug\net6.0\PackageExpressConsole.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\obj\Debug\net6.0\PackageExpressConsole.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\PackageExpressConsole\PackageExpressConsole\obj\Debug\net6.0\ref\PackageExpressConsole.dll
