@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\bin\Debug\net6.0\StringsAndIntegersExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\bin\Debug\net6.0\StringsAndIntegersExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\bin\Debug\net6.0\StringsAndIntegersExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\bin\Debug\net6.0\StringsAndIntegersExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\bin\Debug\net6.0\StringsAndIntegersExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\obj\Debug\net6.0\StringsAndIntegersExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\obj\Debug\net6.0\StringsAndIntegersExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\obj\Debug\net6.0\StringsAndIntegersExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\obj\Debug\net6.0\StringsAndIntegersExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\obj\Debug\net6.0\StringsAndIntegersExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\obj\Debug\net6.0\StringsAndIntegersExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\obj\Debug\net6.0\refint\StringsAndIntegersExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\obj\Debug\net6.0\StringsAndIntegersExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\obj\Debug\net6.0\StringsAndIntegersExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StringsAndIntegersExercise\StringsAndIntegersExercise\obj\Debug\net6.0\ref\StringsAndIntegersExercise.dll
