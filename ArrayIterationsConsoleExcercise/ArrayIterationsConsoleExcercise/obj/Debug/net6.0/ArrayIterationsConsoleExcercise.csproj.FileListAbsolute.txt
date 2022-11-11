@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\bin\Debug\net6.0\ArrayIterationsConsoleExcercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\bin\Debug\net6.0\ArrayIterationsConsoleExcercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\bin\Debug\net6.0\ArrayIterationsConsoleExcercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\bin\Debug\net6.0\ArrayIterationsConsoleExcercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\bin\Debug\net6.0\ArrayIterationsConsoleExcercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\obj\Debug\net6.0\ArrayIterationsConsoleExcercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\obj\Debug\net6.0\ArrayIterationsConsoleExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\obj\Debug\net6.0\ArrayIterationsConsoleExcercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\obj\Debug\net6.0\ArrayIterationsConsoleExcercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\obj\Debug\net6.0\ArrayIterationsConsoleExcercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\obj\Debug\net6.0\ArrayIterationsConsoleExcercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\obj\Debug\net6.0\refint\ArrayIterationsConsoleExcercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\obj\Debug\net6.0\ArrayIterationsConsoleExcercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\obj\Debug\net6.0\ArrayIterationsConsoleExcercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ArrayIterationsConsoleExcercise\ArrayIterationsConsoleExcercise\obj\Debug\net6.0\ref\ArrayIterationsConsoleExcercise.dll
