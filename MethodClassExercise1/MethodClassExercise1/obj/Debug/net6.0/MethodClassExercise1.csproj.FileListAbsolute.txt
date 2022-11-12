@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\bin\Debug\net6.0\MethodClassExercise1.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\bin\Debug\net6.0\MethodClassExercise1.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\bin\Debug\net6.0\MethodClassExercise1.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\bin\Debug\net6.0\MethodClassExercise1.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\bin\Debug\net6.0\MethodClassExercise1.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\obj\Debug\net6.0\MethodClassExercise1.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\obj\Debug\net6.0\MethodClassExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\obj\Debug\net6.0\MethodClassExercise1.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\obj\Debug\net6.0\MethodClassExercise1.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\obj\Debug\net6.0\MethodClassExercise1.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\obj\Debug\net6.0\MethodClassExercise1.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\obj\Debug\net6.0\refint\MethodClassExercise1.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\obj\Debug\net6.0\MethodClassExercise1.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\obj\Debug\net6.0\MethodClassExercise1.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodClassExercise1\MethodClassExercise1\obj\Debug\net6.0\ref\MethodClassExercise1.dll
