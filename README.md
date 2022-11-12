@@ -1,16 +1,19 @@
 # Basic #C
 
-About: This repository consists of a variety of console projects and exercises developed through Visual Studio with C#.
+About: This repository consists of a variety of console programs developed through Visual Studio with C#.
 
-C# practice with arrays, booleans, value comparisons, try/catch blocks, methods, classes, datatypes, 
+These programs involve practice in the following areas: C# practice with arrays, booleans, value comparisons, try/catch blocks, methods, classes, datatypes, 
 
-Array Iterations
 
-Arrays
+Console Programs within this Repository:
 
-Boolean Comparisons
+Array Iterations - 
 
-Calling Methods
+Arrays - 
+
+Boolean Comparisons - 
+
+Calling Methods - 
 
 Car Insurance - conditional statements and user input
 
