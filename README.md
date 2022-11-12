@@ -1,4 +1,5 @@
-# Basic-CSharp-Projects (Basic #C)
+# Basic #C
+# Repository: Basic-CSharp-Projects
 
 About: This repository consists of a variety of console projects developed through Visual Studio with C#.
 
