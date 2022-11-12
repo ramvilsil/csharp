@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\bin\Debug\net6.0\MethodsExercise2.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\bin\Debug\net6.0\MethodsExercise2.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\bin\Debug\net6.0\MethodsExercise2.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\bin\Debug\net6.0\MethodsExercise2.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\bin\Debug\net6.0\MethodsExercise2.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\obj\Debug\net6.0\MethodsExercise2.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\obj\Debug\net6.0\MethodsExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\obj\Debug\net6.0\MethodsExercise2.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\obj\Debug\net6.0\MethodsExercise2.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\obj\Debug\net6.0\MethodsExercise2.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\obj\Debug\net6.0\MethodsExercise2.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\obj\Debug\net6.0\refint\MethodsExercise2.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\obj\Debug\net6.0\MethodsExercise2.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\obj\Debug\net6.0\MethodsExercise2.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\MethodsExercise2\MethodsExercise2\obj\Debug\net6.0\ref\MethodsExercise2.dll
