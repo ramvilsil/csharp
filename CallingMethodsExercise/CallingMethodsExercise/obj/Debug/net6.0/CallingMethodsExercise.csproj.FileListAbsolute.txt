@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\bin\Debug\net6.0\CallingMethodsExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\bin\Debug\net6.0\CallingMethodsExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\bin\Debug\net6.0\CallingMethodsExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\bin\Debug\net6.0\CallingMethodsExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\bin\Debug\net6.0\CallingMethodsExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\obj\Debug\net6.0\CallingMethodsExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\obj\Debug\net6.0\CallingMethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\obj\Debug\net6.0\CallingMethodsExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\obj\Debug\net6.0\CallingMethodsExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\obj\Debug\net6.0\CallingMethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\obj\Debug\net6.0\CallingMethodsExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\obj\Debug\net6.0\refint\CallingMethodsExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\obj\Debug\net6.0\CallingMethodsExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\obj\Debug\net6.0\CallingMethodsExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\CallingMethodsExercise\CallingMethodsExercise\obj\Debug\net6.0\ref\CallingMethodsExercise.dll
