@@ -2,7 +2,7 @@
 
 About: This repository consists of a variety of console programs developed through Visual Studio with C#.
 
-These programs involve practice in the following areas: C# practice with arrays, booleans, value comparisons, try/catch blocks, methods, classes, datatypes, 
+These programs involve practice in the following areas: arrays, booleans, value comparisons, try/catch blocks, methods, classes, datatypes, 
 
 
 Console Programs within this Repository:
