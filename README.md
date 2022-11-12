@@ -1,3 +1,4 @@
-# Basic-CSharp-Projects
+# Basic-CSharp-Projects (Basic #C)
 
-This repository consists of a variety of projects developed with C#.
+About: This repository consists of a variety of console projects developed through Visual Studio with C#.
+
