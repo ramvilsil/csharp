@@ -1,4 +1,4 @@
-# Basic #C
+# Basic C#
 
 About: This repository consists of a variety of console programs developed through Visual Studio with C#.
 
