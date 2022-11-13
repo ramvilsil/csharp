@@ -1,6 +1,4 @@
-﻿
-
-namespace methodClassExercise1
+﻿namespace methodClassExercise1
 {
     //Declares "Program" class
     class Program
