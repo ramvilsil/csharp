@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\net6.0\AbstractClassExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\net6.0\AbstractClassExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\net6.0\AbstractClassExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\net6.0\AbstractClassExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\net6.0\AbstractClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\bin\Debug\net6.0\AbstractClassExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\bin\Debug\net6.0\AbstractClassExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\bin\Debug\net6.0\AbstractClassExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\bin\Debug\net6.0\AbstractClassExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\bin\Debug\net6.0\AbstractClassExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\net6.0\AbstractClassExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\net6.0\refint\AbstractClassExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\net6.0\AbstractClassExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\net6.0\AbstractClassExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\AbstractClassExercise\AbstractClassExercise\obj\Debug\net6.0\ref\AbstractClassExercise.dll
