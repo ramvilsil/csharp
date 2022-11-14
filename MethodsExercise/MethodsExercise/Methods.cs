@@ -10,7 +10,7 @@ namespace methodsExercise
     public class Methods
     {
         //Creates method "Method"
-        public static int Method(int intNum)
+        public int Method(int intNum)
         {
             //Increments "intNum" value by 10
             intNum += 10;
@@ -20,20 +20,20 @@ namespace methodsExercise
         }
 
         //Uses the same method previously used "Method" - Method overloading
-        public static int Method(double doubleNum)
+        public int Method(decimal decimalNum)
         {
-            //Multiplies "doubleNum" value by 5
-            doubleNum *= 5;
+            //Multiplies "decimalNum" value by 5
+            decimalNum *= 5;
 
-            //Creates new int "nonDoubleNum" from "doubleNum" converted to an int
-            int nonDoubleNum = Convert.ToInt16(doubleNum);
+            //Creates new int "nonDecimalNum" from "decimalNum" converted to an int
+            int nonDecimalNum = Convert.ToInt16(decimalNum);
 
-            //Returns "nonDoubleNum" as an int
-            return nonDoubleNum;
+            //Returns "nonDecimalNum" as an int
+            return nonDecimalNum;
         }
 
         //Uses the same method previously used "Method" - Method overloading
-        public static int Method(string stringNum)
+        public int Method(string stringNum)
         {
             //Creates new int "nonStringNum" from "stringNum" as an int
             int nonStringNum = Int16.Parse(stringNum);
