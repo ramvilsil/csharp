@@ -11,7 +11,7 @@ namespace methodClassExercise2
     public class Methods
     {
         //Creates method "Method"
-        public static void Method(int userInput)
+        public void Method(int userInput)
         {
             //Divides userInput by 2
 
@@ -23,12 +23,11 @@ namespace methodClassExercise2
         }
 
         //Overload method "Method" takes out parameter "outputText"
-        public static void Method(out string outputText)
+        public void Method(out string outputText)
         {
             //Updates "outputText" value
             outputText = "Your number divided by 2 equals: ";
         }
-
 
 
     }
