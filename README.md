@@ -5,7 +5,7 @@ About: This repository consists of a variety of console programs developed throu
 These programs involve practice in the following areas: arrays, booleans, value comparisons, try/catch blocks, methods, classes, datatypes, objects, inheritance, polymorphism, ...
 
 
-<ins> Console Programs within this Repository: </ins>
+<ins> Console Programs </ins>
 
 - Array Iterations - 
 
