@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace AbstractClassExercise
 {
     //Creates class "Person"
-    public class Person
+    public abstract class Person
     {
         //Creates string property "FirstName" 
         public string FirstName { get; set; }
