@@ -7,28 +7,28 @@ These programs involve practice in the following areas: arrays, booleans, value 
 
 Console Programs within this Repository:
 
-Array Iterations - 
+- Array Iterations - 
 
-Arrays - 
+- Arrays - 
 
-Boolean Comparisons - 
+- Boolean Comparisons - 
 
-Calling Methods - 
+- Calling Methods - 
 
-Car Insurance - conditional statements and user input
+- Car Insurance - conditional statements and user input
 
-Daily Report App - 
+- Daily Report App - 
 
-Income Comparison App - 
+- Income Comparison App - 
 
-Math - 
+- Math - 
 
-Methods Exercise 1 - 
+- Methods Exercise 1 - 
 
-Methods Exercise 2 - 
+- Methods Exercise 2 - 
 
-Package Express - 
+- Package Express - 
 
-Strings Exercise - 
+- Strings Exercise - 
 
-Strings & Integers Exercise - 
+- Strings & Integers Exercise - 
