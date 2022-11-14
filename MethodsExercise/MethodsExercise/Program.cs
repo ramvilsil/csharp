@@ -23,7 +23,7 @@ namespace methodsExercise
 
             //Requests user input into the console
             Console.WriteLine("Enter a decimal number to multiply by 5:");
-            //Converts the value to a double and assigns it to double "doubleNum"
+            //Converts the value to a decimal and assigns it to decimal "decimalNum"
             decimal decimalNum = Convert.ToDecimal(Console.ReadLine());
 
             //Writes line on the console displaying the  object "method" method  output using "decimalNum" as a parameter
