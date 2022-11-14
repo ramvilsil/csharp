@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\obj\Debug\net6.0\OperatorOverloadingExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\obj\Debug\net6.0\OperatorOverloadingExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\obj\Debug\net6.0\OperatorOverloadingExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\obj\Debug\net6.0\OperatorOverloadingExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\obj\Debug\net6.0\OperatorOverloadingExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\bin\Debug\net6.0\OperatorOverloadingExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\bin\Debug\net6.0\OperatorOverloadingExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\bin\Debug\net6.0\OperatorOverloadingExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\bin\Debug\net6.0\OperatorOverloadingExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\bin\Debug\net6.0\OperatorOverloadingExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\obj\Debug\net6.0\OperatorOverloadingExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\obj\Debug\net6.0\refint\OperatorOverloadingExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\obj\Debug\net6.0\OperatorOverloadingExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\obj\Debug\net6.0\OperatorOverloadingExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\OperatorOverloadingExercise\OperatorOverloadingExercise\obj\Debug\net6.0\ref\OperatorOverloadingExercise.dll
