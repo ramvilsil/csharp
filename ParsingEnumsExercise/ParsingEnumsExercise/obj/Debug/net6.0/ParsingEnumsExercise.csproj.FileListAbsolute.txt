@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\bin\Debug\net6.0\ParsingEnumsExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\bin\Debug\net6.0\ParsingEnumsExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\bin\Debug\net6.0\ParsingEnumsExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\bin\Debug\net6.0\ParsingEnumsExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\bin\Debug\net6.0\ParsingEnumsExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\obj\Debug\net6.0\ParsingEnumsExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\obj\Debug\net6.0\ParsingEnumsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\obj\Debug\net6.0\ParsingEnumsExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\obj\Debug\net6.0\ParsingEnumsExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\obj\Debug\net6.0\ParsingEnumsExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\obj\Debug\net6.0\ParsingEnumsExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\obj\Debug\net6.0\refint\ParsingEnumsExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\obj\Debug\net6.0\ParsingEnumsExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\obj\Debug\net6.0\ParsingEnumsExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ParsingEnumsExercise\ParsingEnumsExercise\obj\Debug\net6.0\ref\ParsingEnumsExercise.dll
