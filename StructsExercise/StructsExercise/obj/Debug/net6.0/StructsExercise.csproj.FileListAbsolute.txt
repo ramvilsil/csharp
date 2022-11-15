@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\bin\Debug\net6.0\StructsExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\bin\Debug\net6.0\StructsExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\bin\Debug\net6.0\StructsExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\bin\Debug\net6.0\StructsExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\bin\Debug\net6.0\StructsExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\obj\Debug\net6.0\StructsExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\obj\Debug\net6.0\StructsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\obj\Debug\net6.0\StructsExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\obj\Debug\net6.0\StructsExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\obj\Debug\net6.0\StructsExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\obj\Debug\net6.0\StructsExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\obj\Debug\net6.0\refint\StructsExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\obj\Debug\net6.0\StructsExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\obj\Debug\net6.0\StructsExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\StructsExercise\StructsExercise\obj\Debug\net6.0\ref\StructsExercise.dll
