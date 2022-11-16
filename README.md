@@ -18,25 +18,26 @@ These programs involve practice in the following areas: arrays, booleans, value 
 
 <ins> Console Programs </ins>
 
--AbstractClassExercise
+- AbstractClassExercise
+   - This 
  
--ArrayIterationsConsoleExcercise
+- ArrayIterationsConsoleExcercise
  
--ArraysConsoleExercise
+- ArraysConsoleExercise
  
--BooleanComparisonConsole
+- BooleanComparisonConsole
  
--CallingMethodsExercise
+- CallingMethodsExercise
  
--CarInsurance
+- CarInsurance
  
--DailyReportApp
+- DailyReportApp
  
--DateTimeExercise
+- DateTimeExercise
  
--IncomeComparisionApp
+- IncomeComparisionApp
  
--LambdaExpressionExercise
+- LambdaExpressionExercise
  
 -MathConsoleApp
  
