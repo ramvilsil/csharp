@@ -14,7 +14,7 @@
 This repository consists of a many console programs developed through Visual Studio with C#. These programs involve practice in the following areas: arrays, booleans, value comparisons, try/catch blocks, methods, classes, datatypes, objects, inheritance, polymorphism, abstract classes, loop iterations
 
 
-<ins>Console Programs</ins> (listed by path name)
+<ins>Contents</ins> (listed by path name)
 
 - AbstractClassExercise
    - Abstract class 
@@ -32,39 +32,58 @@ This repository consists of a many console programs developed through Visual Stu
    - Creating and calling methods 
 
 - CarInsurance
+   -
  
 - DailyReportApp
+   -
  
 - DateTimeExercise
+   -
  
 - IncomeComparisionApp
+   -
  
 - LambdaExpressionExercise
+   -
  
 - MathConsoleApp
+   -
  
 - MethodClassExercise1
+   -
  
 - MethodClassExercise2
+   -
  
 - MethodsAndObjectsExercise1
+   -
  
 - MethodsExercise
+   -
  
 - MethodsExercise2
+   -
  
 - OperatorOverloadingExercise
+   -
  
 - PackageExpressConsole
+   -
  
 - ParsingEnumsExercise
+   -
  
 - PolymorphismExercise
+   -
  
 - StringExercise
+   -
  
 - StringsAndIntegersExercise
+   -
  
 - StructsExercise
+   -
  
 - UserInputExercise
+   -
