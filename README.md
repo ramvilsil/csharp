@@ -19,16 +19,20 @@ These programs involve practice in the following areas: arrays, booleans, value 
 <ins> Console Programs </ins>
 
 - AbstractClassExercise
-   - This 
+   - Abstract class 
  
 - ArrayIterationsConsoleExcercise
+   - Iterating through arrays
  
 - ArraysConsoleExercise
+   -  Arrays
  
 - BooleanComparisonConsole
+   - Comparing booleans
  
 - CallingMethodsExercise
- 
+   - Creating and calling methods 
+
 - CarInsurance
  
 - DailyReportApp
@@ -39,30 +43,30 @@ These programs involve practice in the following areas: arrays, booleans, value 
  
 - LambdaExpressionExercise
  
--MathConsoleApp
+- MathConsoleApp
  
--MethodClassExercise1
+- MethodClassExercise1
  
--MethodClassExercise2
+- MethodClassExercise2
  
--MethodsAndObjectsExercise1
+- MethodsAndObjectsExercise1
  
--MethodsExercise
+- MethodsExercise
  
--MethodsExercise2
+- MethodsExercise2
  
--OperatorOverloadingExercise
+- OperatorOverloadingExercise
  
--PackageExpressConsole
+- PackageExpressConsole
  
--ParsingEnumsExercise
+- ParsingEnumsExercise
  
--PolymorphismExercise
+- PolymorphismExercise
  
--StringExercise
+- StringExercise
  
--StringsAndIntegersExercise
+- StringsAndIntegersExercise
  
--StructsExercise
+- StructsExercise
  
--UserInputExercise
+- UserInputExercise
