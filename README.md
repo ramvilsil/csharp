@@ -11,12 +11,10 @@
 
 <ins>About</ins>
 
-This repository consists of a variety of console programs developed through Visual Studio with C#.
-
-These programs involve practice in the following areas: arrays, booleans, value comparisons, try/catch blocks, methods, classes, datatypes, objects, inheritance, polymorphism, abstract classes, loop iterations
+This repository consists of a many console programs developed through Visual Studio with C#. These programs involve practice in the following areas: arrays, booleans, value comparisons, try/catch blocks, methods, classes, datatypes, objects, inheritance, polymorphism, abstract classes, loop iterations
 
 
-<ins>Console Programs</ins>(listed by path name)
+<ins>Console Programs</ins> (listed by path name)
 
 - AbstractClassExercise
    - Abstract class 
