@@ -32,58 +32,58 @@ This repository consists of a many console programs developed through Visual Stu
    - Creating and calling methods 
 
 - CarInsurance
-   -
+   - Car insurance console
  
 - DailyReportApp
-   -
+   - Daily reports console
  
 - DateTimeExercise
-   -
+   - Date/Time 
  
 - IncomeComparisionApp
-   -
+   - Income comparison console 
  
 - LambdaExpressionExercise
-   -
+   - Lambda expressions
  
 - MathConsoleApp
-   -
+   - Math operations
  
 - MethodClassExercise1
-   -
+   - Class methoda
  
 - MethodClassExercise2
-   -
+   - Class methods
  
 - MethodsAndObjectsExercise1
-   -
+   - Methods and objects
  
 - MethodsExercise
-   -
+   - Methods
  
 - MethodsExercise2
-   -
- 
+   - Methods
+  
 - OperatorOverloadingExercise
-   -
+   - Overloading operators
  
 - PackageExpressConsole
-   -
+   - Package Express console program
  
 - ParsingEnumsExercise
-   -
+   - Parsing enums
  
 - PolymorphismExercise
-   -
+   - Polymorphism
  
 - StringExercise
-   -
+   - Strings
  
 - StringsAndIntegersExercise
-   -
+   - Strings and integer operations
  
 - StructsExercise
-   -
+   - Structs
  
 - UserInputExercise
-   -
+   - User input
