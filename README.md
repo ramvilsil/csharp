@@ -18,37 +18,50 @@ These programs involve practice in the following areas: arrays, booleans, value 
 
 <ins> Console Programs </ins>
 
-- Abstract Class Exercise;
-
-- Array Iterations: 
-
-- Arrays:
-
-- Boolean Comparisons:
-
-- Calling Methods Exercise:
-
-- Car Insurance: conditional statements and user input
-
-- Daily Report App:
-
-- Income Comparison App;
-
-- Math:
-
-- Method Class Exercise 1:
-
-- Method Class Exercise 2:
-
-- Methods and Objects Exercise 1:
-
-- Methods Exercise 1:
-
-- Methods Exercise 2:
-
-- Package Express:
-
-- Strings Exercise: 
-
-- Strings & Integers Exercise:
-
+-AbstractClassExercise
+ 
+-ArrayIterationsConsoleExcercise
+ 
+-ArraysConsoleExercise
+ 
+-BooleanComparisonConsole
+ 
+-CallingMethodsExercise
+ 
+-CarInsurance
+ 
+-DailyReportApp
+ 
+-DateTimeExercise
+ 
+-IncomeComparisionApp
+ 
+-LambdaExpressionExercise
+ 
+-MathConsoleApp
+ 
+-MethodClassExercise1
+ 
+-MethodClassExercise2
+ 
+-MethodsAndObjectsExercise1
+ 
+-MethodsExercise
+ 
+-MethodsExercise2
+ 
+-OperatorOverloadingExercise
+ 
+-PackageExpressConsole
+ 
+-ParsingEnumsExercise
+ 
+-PolymorphismExercise
+ 
+-StringExercise
+ 
+-StringsAndIntegersExercise
+ 
+-StructsExercise
+ 
+-UserInputExercise
