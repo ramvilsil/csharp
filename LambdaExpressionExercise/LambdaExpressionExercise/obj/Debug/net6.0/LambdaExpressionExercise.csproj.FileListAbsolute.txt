@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\bin\Debug\net6.0\LambdaExpressionExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\bin\Debug\net6.0\LambdaExpressionExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\bin\Debug\net6.0\LambdaExpressionExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\bin\Debug\net6.0\LambdaExpressionExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\bin\Debug\net6.0\LambdaExpressionExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\obj\Debug\net6.0\LambdaExpressionExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\obj\Debug\net6.0\LambdaExpressionExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\obj\Debug\net6.0\LambdaExpressionExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\obj\Debug\net6.0\LambdaExpressionExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\obj\Debug\net6.0\LambdaExpressionExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\obj\Debug\net6.0\LambdaExpressionExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\obj\Debug\net6.0\refint\LambdaExpressionExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\obj\Debug\net6.0\LambdaExpressionExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\obj\Debug\net6.0\LambdaExpressionExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\LambdaExpressionExercise\LambdaExpressionExercise\obj\Debug\net6.0\ref\LambdaExpressionExercise.dll
