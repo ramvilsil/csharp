@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\bin\Debug\net6.0\UserInputExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\bin\Debug\net6.0\UserInputExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\bin\Debug\net6.0\UserInputExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\bin\Debug\net6.0\UserInputExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\bin\Debug\net6.0\UserInputExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\obj\Debug\net6.0\UserInputExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\obj\Debug\net6.0\UserInputExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\obj\Debug\net6.0\UserInputExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\obj\Debug\net6.0\UserInputExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\obj\Debug\net6.0\UserInputExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\obj\Debug\net6.0\UserInputExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\obj\Debug\net6.0\refint\UserInputExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\obj\Debug\net6.0\UserInputExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\obj\Debug\net6.0\UserInputExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\UserInputExercise\UserInputExercise\obj\Debug\net6.0\ref\UserInputExercise.dll
