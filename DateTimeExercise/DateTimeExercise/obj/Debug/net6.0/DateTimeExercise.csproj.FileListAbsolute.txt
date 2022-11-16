@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\bin\Debug\net6.0\DateTimeExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\bin\Debug\net6.0\DateTimeExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\bin\Debug\net6.0\DateTimeExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\bin\Debug\net6.0\DateTimeExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\bin\Debug\net6.0\DateTimeExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\obj\Debug\net6.0\DateTimeExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\obj\Debug\net6.0\DateTimeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\obj\Debug\net6.0\DateTimeExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\obj\Debug\net6.0\DateTimeExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\obj\Debug\net6.0\DateTimeExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\obj\Debug\net6.0\DateTimeExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\obj\Debug\net6.0\refint\DateTimeExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\obj\Debug\net6.0\DateTimeExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\obj\Debug\net6.0\DateTimeExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\DateTimeExercise\DateTimeExercise\obj\Debug\net6.0\ref\DateTimeExercise.dll
