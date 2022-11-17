@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\bin\Debug\net6.0\TryCatchExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\bin\Debug\net6.0\TryCatchExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\bin\Debug\net6.0\TryCatchExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\bin\Debug\net6.0\TryCatchExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\bin\Debug\net6.0\TryCatchExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\obj\Debug\net6.0\TryCatchExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\obj\Debug\net6.0\TryCatchExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\obj\Debug\net6.0\TryCatchExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\obj\Debug\net6.0\TryCatchExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\obj\Debug\net6.0\TryCatchExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\obj\Debug\net6.0\TryCatchExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\obj\Debug\net6.0\refint\TryCatchExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\obj\Debug\net6.0\TryCatchExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\obj\Debug\net6.0\TryCatchExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\TryCatchExercise\TryCatchExercise\obj\Debug\net6.0\ref\TryCatchExercise.dll
