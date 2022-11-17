@@ -1,0 +1,15 @@
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\bin\Debug\net6.0\ConstructorExercise.exe
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\bin\Debug\net6.0\ConstructorExercise.deps.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\bin\Debug\net6.0\ConstructorExercise.runtimeconfig.json
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\bin\Debug\net6.0\ConstructorExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\bin\Debug\net6.0\ConstructorExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\obj\Debug\net6.0\ConstructorExercise.csproj.AssemblyReference.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\obj\Debug\net6.0\ConstructorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\obj\Debug\net6.0\ConstructorExercise.AssemblyInfoInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\obj\Debug\net6.0\ConstructorExercise.AssemblyInfo.cs
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\obj\Debug\net6.0\ConstructorExercise.csproj.CoreCompileInputs.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\obj\Debug\net6.0\ConstructorExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\obj\Debug\net6.0\refint\ConstructorExercise.dll
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\obj\Debug\net6.0\ConstructorExercise.pdb
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\obj\Debug\net6.0\ConstructorExercise.genruntimeconfig.cache
+C:\Users\ramvi\OneDrive\Documents\Basic-CSharp-Projects\ConstructorExercise\ConstructorExercise\obj\Debug\net6.0\ref\ConstructorExercise.dll
