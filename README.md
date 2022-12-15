@@ -1,15 +1,14 @@
-# Basic C# 
+# C# Exercises
 
-### About
+This repository consists of various console programs developed with C#. 
 
-This repository consists of various console programs developed through Visual Studio. 
+
+## Contents
+
 These programs involve practice in the following areas: 
 
 arrays, booleans, value comparisons, try/catch blocks, methods, classes, datatypes, objects, inheritance, polymorphism, abstract classes, loop iterations
 
-
-
-## Contents (listed by path name)
 
 - AbstractClassExercise
    - Abstract class 
