@@ -1,89 +1,27 @@
 # C# Exercises
 
-This repository consists of various console programs developed with C#. 
-
+Various console programs developed with C#. 
 
 ## Contents
+### <i>The code is well commented to guide you as you take a look.</i>
 
-These programs involve practice in the following areas: 
+This repository covers the following:
+Abstract classes, array iterations, arrays, boolean comparisions, calling methods,
+class constructors, datetime data type, inheritance, lambda expressions, mathematical operations,
+class/object methods, operator overloading, parsing enums, polymorphism, 
+primitive data types, structs, try/catch blocks.
 
-arrays, booleans, value comparisons, try/catch blocks, methods, classes, datatypes, objects, inheritance, polymorphism, abstract classes, loop iterations
-
-
-- AbstractClassExercise
-   - Abstract class 
- 
-- ArrayIterationsConsoleExcercise
-   - Iterating through arrays
- 
-- ArraysConsoleExercise
-   -  Arrays
- 
-- BooleanComparisonConsole
-   - Comparing booleans
- 
-- CallingMethodsExercise
-   - Creating and calling methods 
-
+### Notable Content
 - CarInsurance
-   - Car insurance console
-   
-- ConstructorExercise
-   - Constructors exercise
+   - Car insurance console app. Takes in the user input and outputs whether the user is eligible for insurance.
  
 - DailyReportApp
-   - Daily reports console
- 
-- DateTimeExercise
-   - Date/Time 
+   - Daily report console app. Prompts the user to fill out a daily study report.
  
 - IncomeComparisionApp
-   - Income comparison console 
- 
-- LambdaExpressionExercise
-   - Lambda expressions
- 
-- MathConsoleApp
-   - Math operations
- 
-- MethodClassExercise1
-   - Class methoda
- 
-- MethodClassExercise2
-   - Class methods
- 
-- MethodsAndObjectsExercise1
-   - Methods and objects
- 
-- MethodsExercise
-   - Methods
- 
-- MethodsExercise2
-   - Methods
-  
-- OperatorOverloadingExercise
-   - Overloading operators
- 
+   - Income comparison console app. Prompts the 2 users to enter their annual income, 1 at a time. Outputs the comparison results.
+
 - PackageExpressConsole
-   - Package Express console program
+   - Shipping quote console app. Provides a shipping quote upon user input, otherwise informs the user the package is not shippable.
  
-- ParsingEnumsExercise
-   - Parsing enums
- 
-- PolymorphismExercise
-   - Polymorphism
- 
-- StringExercise
-   - Strings
- 
-- StringsAndIntegersExercise
-   - Strings and integer operations
- 
-- StructsExercise
-   - Structs
-   
- - TryCatchExercise
-   - Try Catch blocks
-   
-- UserInputExercise
-   - User input
+
